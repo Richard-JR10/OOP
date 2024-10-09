@@ -1,7 +1,7 @@
 <?php
 //Write a PHP program to create a Vehicle class with name, speed and mileage instance attributes. 
 
-class Vechicle {
+class Vehicle {
     public $name = 0;
     public $speed = 0;
     public $mileage = 0;
